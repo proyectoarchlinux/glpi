@@ -18,5 +18,5 @@ Se deben usar privilefios root.
 
 # Bugs encontrados
 
-- Mysql server no se inicia al arranque
+- Mysql server no se inicia al arranque `sudo service mysql start`
 - sudo es necesario instalarlo
