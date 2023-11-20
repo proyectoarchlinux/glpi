@@ -15,3 +15,8 @@ Se deben usar privilefios root.
 ## Archivo tar
 
 `docker load -i glpi-server.tar`
+
+# Bugs encontrados
+
+- Mysql server no se inicia al arranque
+- sudo es necesario instalarlo
